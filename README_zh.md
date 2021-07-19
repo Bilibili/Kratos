@@ -4,6 +4,7 @@
 [![Build Status](https://github.com/go-kratos/kratos/workflows/Go/badge.svg)](https://github.com/go-kratos/kratos/actions)
 [![GoDoc](https://pkg.go.dev/badge/github.com/go-kratos/kratos/v2)](https://pkg.go.dev/github.com/go-kratos/kratos/v2)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-kratos/kratos)](https://goreportcard.com/report/github.com/go-kratos/kratos)
+[![codecov](https://codecov.io/gh/go-kratos/kratos/branch/main/graph/badge.svg?token=XwnmBTz78x)](https://codecov.io/gh/go-kratos/kratos)
 [![Discord](https://img.shields.io/discord/766619759214854164?label=chat&logo=discord)](https://discord.gg/BWzJsUJ)
 
 Translations: [English](README.md) | [简体中文](README_zh.md)
